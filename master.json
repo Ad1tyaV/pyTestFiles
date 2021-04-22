@@ -1,62 +1,62 @@
 {
-"1":{"team1":"MI","team2":"RCB","city":"CHENNAI","time":"7:30 PM","date":"09-Apr-21","day":"FRI","stadium":"M.A.Chidambaram Chepauk Stadium","state":"TamilNadu"}
-,"2":{"team1":"CSK","team2":"DC","city":"MUMBAI","time":"7:30 PM","date":"10-Apr-21","day":"SAT","stadium":"Wankhede Stadium","state":"Maharashtra"}
-,"3":{"team1":"SRH","team2":"KKR","city":"CHENNAI","time":"7:30 PM","date":"11-Apr-21","day":"SUN","stadium":"M.A.Chidambaram Chepauk Stadium","state":"TamilNadu"}
-,"4":{"team1":"RR","team2":"KXIP","city":"MUMBAI","time":"7:30 PM","date":"12-Apr-21","day":"MON","stadium":"Wankhede Stadium","state":"Maharashtra"}
-,"5":{"team1":"KKR","team2":"MI","city":"CHENNAI","time":"7:30 PM","date":"13-Apr-21","day":"TUE","stadium":"M.A.Chidambaram Chepauk Stadium","state":"TamilNadu"}
-,"6":{"team1":"SRH","team2":"RCB","city":"CHENNAI","time":"7:30 PM","date":"14-Apr-21","day":"WED","stadium":"M.A.Chidambaram Chepauk Stadium","state":"TamilNadu"}
-,"7":{"team1":"RR","team2":"DC","city":"MUMBAI","time":"7:30 PM","date":"15-Apr-21","day":"THU","stadium":"Wankhede Stadium","state":"Maharashtra"}
-,"8":{"team1":"KXIP","team2":"CSK","city":"MUMBAI","time":"7:30 PM","date":"16-Apr-21","day":"FRI","stadium":"Wankhede Stadium","state":"Maharashtra"}
-,"9":{"team1":"MI","team2":"SRH","city":"CHENNAI","time":"7:30 PM","date":"17-Apr-21","day":"SAT","stadium":"M.A.Chidambaram Chepauk Stadium","state":"TamilNadu"}
-,"10":{"team1":"RCB","team2":"KKR","city":"CHENNAI","time":"3:30 PM","date":"18-Apr-21","day":"SUN","stadium":"M.A.Chidambaram Chepauk Stadium","state":"TamilNadu"}
-,"11":{"team1":"DC","team2":"KXIP","city":"MUMBAI","time":"7:30 PM","date":"18-Apr-21","day":"SUN","stadium":"Wankhede Stadium","state":"Maharashtra"}
-,"12":{"team1":"CSK","team2":"RR","city":"MUMBAI","time":"7:30 PM","date":"19-Apr-21","day":"MON","stadium":"Wankhede Stadium","state":"Maharashtra"}
-,"13":{"team1":"DC","team2":"MI","city":"CHENNAI","time":"7:30 PM","date":"20-Apr-21","day":"TUE","stadium":"M.A.Chidambaram Chepauk Stadium","state":"TamilNadu"}
-,"14":{"team1":"KXIP","team2":"SRH","city":"CHENNAI","time":"3:30 PM","date":"21-Apr-21","day":"WED","stadium":"M.A.Chidambaram Chepauk Stadium","state":"TamilNadu"}
-,"15":{"team1":"KKR","team2":"CSK","city":"MUMBAI","time":"7:30 PM","date":"21-Apr-21","day":"WED","stadium":"Wankhede Stadium","state":"Maharashtra"}
-,"16":{"team1":"RCB","team2":"RR","city":"MUMBAI","time":"7:30 PM","date":"22-Apr-21","day":"THU","stadium":"Wankhede Stadium","state":"Maharashtra"}
-,"17":{"team1":"KXIP","team2":"MI","city":"CHENNAI","time":"7:30 PM","date":"23-Apr-21","day":"FRI","stadium":"M.A.Chidambaram Chepauk Stadium","state":"TamilNadu"}
-,"18":{"team1":"RR","team2":"KKR","city":"MUMBAI","time":"7:30 PM","date":"24-Apr-21","day":"SAT","stadium":"Wankhede Stadium","state":"Maharashtra"}
-,"19":{"team1":"CSK","team2":"RCB","city":"MUMBAI","time":"3:30 PM","date":"25-Apr-21","day":"SUN","stadium":"Wankhede Stadium","state":"Maharashtra"}
-,"20":{"team1":"SRH","team2":"DC","city":"CHENNAI","time":"7:30 PM","date":"25-Apr-21","day":"SUN","stadium":"M.A.Chidambaram Chepauk Stadium","state":"TamilNadu"}
-,"21":{"team1":"KXIP","team2":"KKR","city":"AHMEDABAD","time":"7:30 PM","date":"26-Apr-21","day":"MON","stadium":"Narendra Modi Stadium","state":"Gujarat"}
-,"22":{"team1":"DC","team2":"RCB","city":"AHMEDABAD","time":"7:30 PM","date":"27-Apr-21","day":"TUE","stadium":"Narendra Modi Stadium","state":"Gujarat"}
-,"23":{"team1":"CSK","team2":"SRH","city":"DELHI","time":"7:30 PM","date":"28-Apr-21","day":"WED","stadium":"Feroz Shah Kotla Stadium","state":"DELHI"}
-,"24":{"team1":"MI","team2":"RR","city":"DELHI","time":"3:30 PM","date":"29-Apr-21","day":"THU","stadium":"Feroz Shah Kotla Stadium","state":"DELHI"}
-,"25":{"team1":"DC","team2":"KKR","city":"AHMEDABAD","time":"7:30 PM","date":"29-Apr-21","day":"THU","stadium":"Narendra Modi Stadium","state":"Gujarat"}
-,"26":{"team1":"KXIP","team2":"RCB","city":"AHMEDABAD","time":"7:30 PM","date":"30-Apr-21","day":"FRI","stadium":"Narendra Modi Stadium","state":"Gujarat"}
-,"27":{"team1":"MI","team2":"CSK","city":"DELHI","time":"7:30 PM","date":"01-May-21","day":"SAT","stadium":"Feroz Shah Kotla Stadium","state":"DELHI"}
-,"28":{"team1":"RR","team2":"SRH","city":"DELHI","time":"3:30 PM","date":"02-May-21","day":"SUN","stadium":"Feroz Shah Kotla Stadium","state":"DELHI"}
-,"29":{"team1":"KXIP","team2":"DC","city":"AHMEDABAD","time":"7:30 PM","date":"02-May-21","day":"SUN","stadium":"Narendra Modi Stadium","state":"Gujarat"}
-,"30":{"team1":"KKR","team2":"RCB","city":"AHMEDABAD","time":"7:30 PM","date":"03-May-21","day":"MON","stadium":"Narendra Modi Stadium","state":"Gujarat"}
-,"31":{"team1":"SRH","team2":"MI","city":"DELHI","time":"7:30 PM","date":"04-May-21","day":"TUE","stadium":"Feroz Shah Kotla Stadium","state":"DELHI"}
-,"32":{"team1":"RR","team2":"CSK","city":"DELHI","time":"7:30 PM","date":"05-May-21","day":"WED","stadium":"Feroz Shah Kotla Stadium","state":"DELHI"}
-,"33":{"team1":"RCB","team2":"KXIP","city":"AHMEDABAD","time":"7:30 PM","date":"06-May-21","day":"THU","stadium":"Narendra Modi Stadium","state":"Gujarat"}
-,"34":{"team1":"SRH","team2":"CSK","city":"DELHI","time":"7:30 PM","date":"07-May-21","day":"FRI","stadium":"Feroz Shah Kotla Stadium","state":"DELHI"}
-,"35":{"team1":"KKR","team2":"DC","city":"AHMEDABAD","time":"3:30 PM","date":"08-May-21","day":"SAT","stadium":"Narendra Modi Stadium","state":"Gujarat"}
-,"36":{"team1":"RR","team2":"MI","city":"DELHI","time":"7:30 PM","date":"08-May-21","day":"SAT","stadium":"Feroz Shah Kotla Stadium","state":"DELHI"}
-,"37":{"team1":"CSK","team2":"KXIP","city":"BANGALORE","time":"3:30 PM","date":"09-May-21","day":"SUN","stadium":"M.Chinnaswamy Stadium","state":"Karnataka"}
-,"38":{"team1":"RCB","team2":"SRH","city":"KOLKATTA","time":"7:30 PM","date":"09-May-21","day":"SUN","stadium":"Eden Gardens Stadium","state":"WB"}
-,"39":{"team1":"MI","team2":"KKR","city":"BANGALORE","time":"7:30 PM","date":"10-May-21","day":"MON","stadium":"M.Chinnaswamy Stadium","state":"Karnataka"}
-,"40":{"team1":"DC","team2":"RR","city":"KOLKATTA","time":"7:30 PM","date":"11-May-21","day":"TUE","stadium":"Eden Gardens Stadium","state":"WB"}
-,"41":{"team1":"CSK","team2":"KKR","city":"BANGALORE","time":"7:30 PM","date":"12-May-21","day":"WED","stadium":"M.Chinnaswamy Stadium","state":"Karnataka"}
-,"42":{"team1":"MI","team2":"KXIP","city":"BANGALORE","time":"3:30 PM","date":"13-May-21","day":"THU","stadium":"M.Chinnaswamy Stadium","state":"Karnataka"}
-,"43":{"team1":"SRH","team2":"RR","city":"KOLKATTA","time":"7:30 PM","date":"13-May-21","day":"THU","stadium":"Eden Gardens Stadium","state":"WB"}
-,"44":{"team1":"RCB","team2":"DC","city":"KOLKATTA","time":"7:30 PM","date":"14-May-21","day":"FRI","stadium":"Eden Gardens Stadium","state":"WB"}
-,"45":{"team1":"KKR","team2":"KXIP","city":"BANGALORE","time":"7:30 PM","date":"15-May-21","day":"SAT","stadium":"M.Chinnaswamy Stadium","state":"Karnataka"}
-,"46":{"team1":"RR","team2":"RCB","city":"KOLKATTA","time":"3:30 PM","date":"16-May-21","day":"SUN","stadium":"Eden Gardens Stadium","state":"WB"}
-,"47":{"team1":"CSK","team2":"MI","city":"BANGALORE","time":"7:30 PM","date":"16-May-21","day":"SUN","stadium":"M.Chinnaswamy Stadium","state":"Karnataka"}
-,"48":{"team1":"DC","team2":"SRH","city":"KOLKATTA","time":"7:30 PM","date":"17-May-21","day":"MON","stadium":"Eden Gardens Stadium","state":"WB"}
-,"49":{"team1":"KKR","team2":"RR","city":"BANGALORE","time":"7:30 PM","date":"18-May-21","day":"TUE","stadium":"M.Chinnaswamy Stadium","state":"Karnataka"}
-,"50":{"team1":"SRH","team2":"KXIP","city":"BANGALORE","time":"7:30 PM","date":"19-May-21","day":"WED","stadium":"M.Chinnaswamy Stadium","state":"Karnataka"}
-,"51":{"team1":"RCB","team2":"MI","city":"KOLKATTA","time":"7:30 PM","date":"20-May-21","day":"THU","stadium":"Eden Gardens Stadium","state":"WB"}
-,"52":{"team1":"KKR","team2":"SRH","city":"BANGALORE","time":"3:30 PM","date":"21-May-21","day":"FRI","stadium":"M.Chinnaswamy Stadium","state":"Karnataka"}
-,"53":{"team1":"DC","team2":"CSK","city":"KOLKATTA","time":"7:30 PM","date":"21-May-21","day":"FRI","stadium":"Eden Gardens Stadium","state":"WB"}
-,"54":{"team1":"KXIP","team2":"RR","city":"BANGALORE","time":"7:30 PM","date":"22-May-21","day":"SAT","stadium":"M.Chinnaswamy Stadium","state":"Karnataka"}
-,"55":{"team1":"MI","team2":"DC","city":"KOLKATTA","time":"3:30 PM","date":"23-May-21","day":"SUN","stadium":"Eden Gardens Stadium","state":"WB"}
-,"56":{"team1":"RCB","team2":"CSK","city":"KOLKATTA","time":"7:30 PM","date":"23-May-21","day":"SUN","stadium":"Eden Gardens Stadium","state":"WB"},
-"57":{"team1":"Qualifier","team2":"Qualifier","city":"AHMEDABAD","time":"7:30 PM","date":"25-May-21","day":"TUE","stadium":"Narendra Modi Stadium","state":"Gujarat"},
-"58":{"team1":"Qualifier","team2":"Qualifier","city":"AHMEDABAD","time":"7:30 PM","date":"26-May-21","day":"SUN","stadium":"Narendra Modi Stadium","state":"Gujarat"},
-"59":{"team1":"Qualifier","team2":"Qualifier","city":"AHMEDABAD","time":"7:30 PM","date":"28-May-21","day":"SUN","stadium":"Narendra Modi Stadium","state":"Gujarat"},
-"60":{"team1":"Qualifier","team2":"Qualifier","city":"AHMEDABAD","time":"7:30 PM","date":"30-May-21","day":"SUN","stadium":"Narendra Modi Stadium","state":"Gujarat"}
+"1":{"team1":"MI","team2":"RCB","city":"CHENNAI","time":"7:30 PM","date":"09-Apr-21","day":"FRI","stadium":"M.A.Chidambaram Chepauk Stadium","state":"TamilNadu", "result":"Royal Challengers Bangalore won by 2 wickets"}
+,"2":{"team1":"CSK","team2":"DC","city":"MUMBAI","time":"7:30 PM","date":"10-Apr-21","day":"SAT","stadium":"Wankhede Stadium","state":"Maharashtra", "result":"Delhi Capitals won by 7 wickets"}
+,"3":{"team1":"SRH","team2":"KKR","city":"CHENNAI","time":"7:30 PM","date":"11-Apr-21","day":"SUN","stadium":"M.A.Chidambaram Chepauk Stadium","state":"TamilNadu", "result":"Kolkata Knight Riders won by 10 runs"}
+,"4":{"team1":"RR","team2":"KXIP","city":"MUMBAI","time":"7:30 PM","date":"12-Apr-21","day":"MON","stadium":"Wankhede Stadium","state":"Maharashtra", "result":"Punjab Kings won by 4 runs"}
+,"5":{"team1":"KKR","team2":"MI","city":"CHENNAI","time":"7:30 PM","date":"13-Apr-21","day":"TUE","stadium":"M.A.Chidambaram Chepauk Stadium","state":"TamilNadu", "result":"Mumbai Indians won by 10 runs"}
+,"6":{"team1":"SRH","team2":"RCB","city":"CHENNAI","time":"7:30 PM","date":"14-Apr-21","day":"WED","stadium":"M.A.Chidambaram Chepauk Stadium","state":"TamilNadu", "result":"Royal Challengers Bangalore won by 6 runs"}
+,"7":{"team1":"RR","team2":"DC","city":"MUMBAI","time":"7:30 PM","date":"15-Apr-21","day":"THU","stadium":"Wankhede Stadium","state":"Maharashtra", "result":"Rajasthan Royals won by 3 wickets"}
+,"8":{"team1":"KXIP","team2":"CSK","city":"MUMBAI","time":"7:30 PM","date":"16-Apr-21","day":"FRI","stadium":"Wankhede Stadium","state":"Maharashtra", "result":"Chennai Super Kings won by 6 wickets"}
+,"9":{"team1":"MI","team2":"SRH","city":"CHENNAI","time":"7:30 PM","date":"17-Apr-21","day":"SAT","stadium":"M.A.Chidambaram Chepauk Stadium","state":"TamilNadu", "result":"Mumbai Indians won by 13 runs"}
+,"10":{"team1":"RCB","team2":"KKR","city":"CHENNAI","time":"3:30 PM","date":"18-Apr-21","day":"SUN","stadium":"M.A.Chidambaram Chepauk Stadium","state":"TamilNadu", "result":"Royal Challengers Bangalore won by 38 runs"}
+,"11":{"team1":"DC","team2":"KXIP","city":"MUMBAI","time":"7:30 PM","date":"18-Apr-21","day":"SUN","stadium":"Wankhede Stadium","state":"Maharashtra", "result":"Delhi Capitals won by 6 wickets"}
+,"12":{"team1":"CSK","team2":"RR","city":"MUMBAI","time":"7:30 PM","date":"19-Apr-21","day":"MON","stadium":"Wankhede Stadium","state":"Maharashtra", "result":"Chennai Super Kings won by 45 runs"}
+,"13":{"team1":"DC","team2":"MI","city":"CHENNAI","time":"7:30 PM","date":"20-Apr-21","day":"TUE","stadium":"M.A.Chidambaram Chepauk Stadium","state":"TamilNadu", "result":"Delhi Capitals won by 6 wickets"}
+,"14":{"team1":"KXIP","team2":"SRH","city":"CHENNAI","time":"3:30 PM","date":"21-Apr-21","day":"WED","stadium":"M.A.Chidambaram Chepauk Stadium","state":"TamilNadu", "result":"Sunrisers Hyderabad won by 9 wickets"}
+,"15":{"team1":"KKR","team2":"CSK","city":"MUMBAI","time":"7:30 PM","date":"21-Apr-21","day":"WED","stadium":"Wankhede Stadium","state":"Maharashtra", "result":"Chennai Super Kings won by 18 runs"}
+,"16":{"team1":"RCB","team2":"RR","city":"MUMBAI","time":"7:30 PM","date":"22-Apr-21","day":"THU","stadium":"Wankhede Stadium","state":"Maharashtra", "result":"Royal Challengers Bangalore won by 10 wickets"}
+,"17":{"team1":"KXIP","team2":"MI","city":"CHENNAI","time":"7:30 PM","date":"23-Apr-21","day":"FRI","stadium":"M.A.Chidambaram Chepauk Stadium","state":"TamilNadu", "result":""}
+,"18":{"team1":"RR","team2":"KKR","city":"MUMBAI","time":"7:30 PM","date":"24-Apr-21","day":"SAT","stadium":"Wankhede Stadium","state":"Maharashtra", "result":""}
+,"19":{"team1":"CSK","team2":"RCB","city":"MUMBAI","time":"3:30 PM","date":"25-Apr-21","day":"SUN","stadium":"Wankhede Stadium","state":"Maharashtra", "result":""}
+,"20":{"team1":"SRH","team2":"DC","city":"CHENNAI","time":"7:30 PM","date":"25-Apr-21","day":"SUN","stadium":"M.A.Chidambaram Chepauk Stadium","state":"TamilNadu", "result":""}
+,"21":{"team1":"KXIP","team2":"KKR","city":"AHMEDABAD","time":"7:30 PM","date":"26-Apr-21","day":"MON","stadium":"Narendra Modi Stadium","state":"Gujarat", "result":""}
+,"22":{"team1":"DC","team2":"RCB","city":"AHMEDABAD","time":"7:30 PM","date":"27-Apr-21","day":"TUE","stadium":"Narendra Modi Stadium","state":"Gujarat", "result":""}
+,"23":{"team1":"CSK","team2":"SRH","city":"DELHI","time":"7:30 PM","date":"28-Apr-21","day":"WED","stadium":"Feroz Shah Kotla Stadium","state":"DELHI", "result":""}
+,"24":{"team1":"MI","team2":"RR","city":"DELHI","time":"3:30 PM","date":"29-Apr-21","day":"THU","stadium":"Feroz Shah Kotla Stadium","state":"DELHI", "result":""}
+,"25":{"team1":"DC","team2":"KKR","city":"AHMEDABAD","time":"7:30 PM","date":"29-Apr-21","day":"THU","stadium":"Narendra Modi Stadium","state":"Gujarat", "result":""}
+,"26":{"team1":"KXIP","team2":"RCB","city":"AHMEDABAD","time":"7:30 PM","date":"30-Apr-21","day":"FRI","stadium":"Narendra Modi Stadium","state":"Gujarat", "result":""}
+,"27":{"team1":"MI","team2":"CSK","city":"DELHI","time":"7:30 PM","date":"01-May-21","day":"SAT","stadium":"Feroz Shah Kotla Stadium","state":"DELHI", "result":""}
+,"28":{"team1":"RR","team2":"SRH","city":"DELHI","time":"3:30 PM","date":"02-May-21","day":"SUN","stadium":"Feroz Shah Kotla Stadium","state":"DELHI", "result":""}
+,"29":{"team1":"KXIP","team2":"DC","city":"AHMEDABAD","time":"7:30 PM","date":"02-May-21","day":"SUN","stadium":"Narendra Modi Stadium","state":"Gujarat", "result":""}
+,"30":{"team1":"KKR","team2":"RCB","city":"AHMEDABAD","time":"7:30 PM","date":"03-May-21","day":"MON","stadium":"Narendra Modi Stadium","state":"Gujarat", "result":""}
+,"31":{"team1":"SRH","team2":"MI","city":"DELHI","time":"7:30 PM","date":"04-May-21","day":"TUE","stadium":"Feroz Shah Kotla Stadium","state":"DELHI", "result":""}
+,"32":{"team1":"RR","team2":"CSK","city":"DELHI","time":"7:30 PM","date":"05-May-21","day":"WED","stadium":"Feroz Shah Kotla Stadium","state":"DELHI", "result":""}
+,"33":{"team1":"RCB","team2":"KXIP","city":"AHMEDABAD","time":"7:30 PM","date":"06-May-21","day":"THU","stadium":"Narendra Modi Stadium","state":"Gujarat", "result":""}
+,"34":{"team1":"SRH","team2":"CSK","city":"DELHI","time":"7:30 PM","date":"07-May-21","day":"FRI","stadium":"Feroz Shah Kotla Stadium","state":"DELHI", "result":""}
+,"35":{"team1":"KKR","team2":"DC","city":"AHMEDABAD","time":"3:30 PM","date":"08-May-21","day":"SAT","stadium":"Narendra Modi Stadium","state":"Gujarat", "result":""}
+,"36":{"team1":"RR","team2":"MI","city":"DELHI","time":"7:30 PM","date":"08-May-21","day":"SAT","stadium":"Feroz Shah Kotla Stadium","state":"DELHI", "result":""}
+,"37":{"team1":"CSK","team2":"KXIP","city":"BANGALORE","time":"3:30 PM","date":"09-May-21","day":"SUN","stadium":"M.Chinnaswamy Stadium","state":"Karnataka", "result":""}
+,"38":{"team1":"RCB","team2":"SRH","city":"KOLKATTA","time":"7:30 PM","date":"09-May-21","day":"SUN","stadium":"Eden Gardens Stadium","state":"WB", "result":""}
+,"39":{"team1":"MI","team2":"KKR","city":"BANGALORE","time":"7:30 PM","date":"10-May-21","day":"MON","stadium":"M.Chinnaswamy Stadium","state":"Karnataka", "result":""}
+,"40":{"team1":"DC","team2":"RR","city":"KOLKATTA","time":"7:30 PM","date":"11-May-21","day":"TUE","stadium":"Eden Gardens Stadium","state":"WB", "result":""}
+,"41":{"team1":"CSK","team2":"KKR","city":"BANGALORE","time":"7:30 PM","date":"12-May-21","day":"WED","stadium":"M.Chinnaswamy Stadium","state":"Karnataka", "result":""}
+,"42":{"team1":"MI","team2":"KXIP","city":"BANGALORE","time":"3:30 PM","date":"13-May-21","day":"THU","stadium":"M.Chinnaswamy Stadium","state":"Karnataka", "result":""}
+,"43":{"team1":"SRH","team2":"RR","city":"KOLKATTA","time":"7:30 PM","date":"13-May-21","day":"THU","stadium":"Eden Gardens Stadium","state":"WB", "result":""}
+,"44":{"team1":"RCB","team2":"DC","city":"KOLKATTA","time":"7:30 PM","date":"14-May-21","day":"FRI","stadium":"Eden Gardens Stadium","state":"WB", "result":""}
+,"45":{"team1":"KKR","team2":"KXIP","city":"BANGALORE","time":"7:30 PM","date":"15-May-21","day":"SAT","stadium":"M.Chinnaswamy Stadium","state":"Karnataka", "result":""}
+,"46":{"team1":"RR","team2":"RCB","city":"KOLKATTA","time":"3:30 PM","date":"16-May-21","day":"SUN","stadium":"Eden Gardens Stadium","state":"WB", "result":""}
+,"47":{"team1":"CSK","team2":"MI","city":"BANGALORE","time":"7:30 PM","date":"16-May-21","day":"SUN","stadium":"M.Chinnaswamy Stadium","state":"Karnataka", "result":""}
+,"48":{"team1":"DC","team2":"SRH","city":"KOLKATTA","time":"7:30 PM","date":"17-May-21","day":"MON","stadium":"Eden Gardens Stadium","state":"WB", "result":""}
+,"49":{"team1":"KKR","team2":"RR","city":"BANGALORE","time":"7:30 PM","date":"18-May-21","day":"TUE","stadium":"M.Chinnaswamy Stadium","state":"Karnataka", "result":""}
+,"50":{"team1":"SRH","team2":"KXIP","city":"BANGALORE","time":"7:30 PM","date":"19-May-21","day":"WED","stadium":"M.Chinnaswamy Stadium","state":"Karnataka", "result":""}
+,"51":{"team1":"RCB","team2":"MI","city":"KOLKATTA","time":"7:30 PM","date":"20-May-21","day":"THU","stadium":"Eden Gardens Stadium","state":"WB", "result":""}
+,"52":{"team1":"KKR","team2":"SRH","city":"BANGALORE","time":"3:30 PM","date":"21-May-21","day":"FRI","stadium":"M.Chinnaswamy Stadium","state":"Karnataka", "result":""}
+,"53":{"team1":"DC","team2":"CSK","city":"KOLKATTA","time":"7:30 PM","date":"21-May-21","day":"FRI","stadium":"Eden Gardens Stadium","state":"WB", "result":""}
+,"54":{"team1":"KXIP","team2":"RR","city":"BANGALORE","time":"7:30 PM","date":"22-May-21","day":"SAT","stadium":"M.Chinnaswamy Stadium","state":"Karnataka", "result":""}
+,"55":{"team1":"MI","team2":"DC","city":"KOLKATTA","time":"3:30 PM","date":"23-May-21","day":"SUN","stadium":"Eden Gardens Stadium","state":"WB", "result":""}
+,"56":{"team1":"RCB","team2":"CSK","city":"KOLKATTA","time":"7:30 PM","date":"23-May-21","day":"SUN","stadium":"Eden Gardens Stadium","state":"WB", "result":""},
+"57":{"team1":"Qualifier","team2":"Qualifier","city":"AHMEDABAD","time":"7:30 PM","date":"25-May-21","day":"TUE","stadium":"Narendra Modi Stadium","state":"Gujarat", "result":""},
+"58":{"team1":"Qualifier","team2":"Qualifier","city":"AHMEDABAD","time":"7:30 PM","date":"26-May-21","day":"SUN","stadium":"Narendra Modi Stadium","state":"Gujarat", "result":""},
+"59":{"team1":"Qualifier","team2":"Qualifier","city":"AHMEDABAD","time":"7:30 PM","date":"28-May-21","day":"SUN","stadium":"Narendra Modi Stadium","state":"Gujarat", "result":""},
+"60":{"team1":"Qualifier","team2":"Qualifier","city":"AHMEDABAD","time":"7:30 PM","date":"30-May-21","day":"SUN","stadium":"Narendra Modi Stadium","state":"Gujarat", "result":""}
 }
