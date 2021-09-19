@@ -28,35 +28,35 @@
 ,"27":{"team1":"MI","team2":"CSK","city":"DELHI","time":"7:30 PM","date":"01-May-21","day":"SAT","stadium":"Feroz Shah Kotla Stadium","state":"DELHI", "result":"Mumbai Indians win by 4 wickets."}
 ,"28":{"team1":"RR","team2":"SRH","city":"DELHI","time":"3:30 PM","date":"02-May-21","day":"SUN","stadium":"Feroz Shah Kotla Stadium","state":"DELHI", "result":"Rajasthan Royals won by 55 runs"}
 ,"29":{"team1":"KXIP","team2":"DC","city":"AHMEDABAD","time":"7:30 PM","date":"02-May-21","day":"SUN","stadium":"Narendra Modi Stadium","state":"Gujarat", "result":"Delhi Capitals win by 7 wickets."}
-,"30":{"team1":"KKR","team2":"RCB","city":"AHMEDABAD","time":"7:30 PM","date":"03-May-21","day":"MON","stadium":"Narendra Modi Stadium","state":"Gujarat", "result":"Match Rescheduled due to Covid Scare"}
-,"31":{"team1":"SRH","team2":"MI","city":"DELHI","time":"7:30 PM","date":"04-May-21","day":"TUE","stadium":"Feroz Shah Kotla Stadium","state":"DELHI", "result":""}
-,"32":{"team1":"RR","team2":"CSK","city":"DELHI","time":"7:30 PM","date":"05-May-21","day":"WED","stadium":"Feroz Shah Kotla Stadium","state":"DELHI", "result":""}
-,"33":{"team1":"RCB","team2":"KXIP","city":"AHMEDABAD","time":"7:30 PM","date":"06-May-21","day":"THU","stadium":"Narendra Modi Stadium","state":"Gujarat", "result":""}
-,"34":{"team1":"SRH","team2":"CSK","city":"DELHI","time":"7:30 PM","date":"07-May-21","day":"FRI","stadium":"Feroz Shah Kotla Stadium","state":"DELHI", "result":""}
-,"35":{"team1":"KKR","team2":"DC","city":"AHMEDABAD","time":"3:30 PM","date":"08-May-21","day":"SAT","stadium":"Narendra Modi Stadium","state":"Gujarat", "result":""}
-,"36":{"team1":"RR","team2":"MI","city":"DELHI","time":"7:30 PM","date":"08-May-21","day":"SAT","stadium":"Feroz Shah Kotla Stadium","state":"DELHI", "result":""}
-,"37":{"team1":"CSK","team2":"KXIP","city":"BANGALORE","time":"3:30 PM","date":"09-May-21","day":"SUN","stadium":"M.Chinnaswamy Stadium","state":"Karnataka", "result":""}
-,"38":{"team1":"RCB","team2":"SRH","city":"KOLKATTA","time":"7:30 PM","date":"09-May-21","day":"SUN","stadium":"Eden Gardens Stadium","state":"WB", "result":""}
-,"39":{"team1":"MI","team2":"KKR","city":"BANGALORE","time":"7:30 PM","date":"10-May-21","day":"MON","stadium":"M.Chinnaswamy Stadium","state":"Karnataka", "result":""}
-,"40":{"team1":"DC","team2":"RR","city":"KOLKATTA","time":"7:30 PM","date":"11-May-21","day":"TUE","stadium":"Eden Gardens Stadium","state":"WB", "result":""}
-,"41":{"team1":"CSK","team2":"KKR","city":"BANGALORE","time":"7:30 PM","date":"12-May-21","day":"WED","stadium":"M.Chinnaswamy Stadium","state":"Karnataka", "result":""}
-,"42":{"team1":"MI","team2":"KXIP","city":"BANGALORE","time":"3:30 PM","date":"13-May-21","day":"THU","stadium":"M.Chinnaswamy Stadium","state":"Karnataka", "result":""}
-,"43":{"team1":"SRH","team2":"RR","city":"KOLKATTA","time":"7:30 PM","date":"13-May-21","day":"THU","stadium":"Eden Gardens Stadium","state":"WB", "result":""}
-,"44":{"team1":"RCB","team2":"DC","city":"KOLKATTA","time":"7:30 PM","date":"14-May-21","day":"FRI","stadium":"Eden Gardens Stadium","state":"WB", "result":""}
-,"45":{"team1":"KKR","team2":"KXIP","city":"BANGALORE","time":"7:30 PM","date":"15-May-21","day":"SAT","stadium":"M.Chinnaswamy Stadium","state":"Karnataka", "result":""}
-,"46":{"team1":"RR","team2":"RCB","city":"KOLKATTA","time":"3:30 PM","date":"16-May-21","day":"SUN","stadium":"Eden Gardens Stadium","state":"WB", "result":""}
-,"47":{"team1":"CSK","team2":"MI","city":"BANGALORE","time":"7:30 PM","date":"16-May-21","day":"SUN","stadium":"M.Chinnaswamy Stadium","state":"Karnataka", "result":""}
-,"48":{"team1":"DC","team2":"SRH","city":"KOLKATTA","time":"7:30 PM","date":"17-May-21","day":"MON","stadium":"Eden Gardens Stadium","state":"WB", "result":""}
-,"49":{"team1":"KKR","team2":"RR","city":"BANGALORE","time":"7:30 PM","date":"18-May-21","day":"TUE","stadium":"M.Chinnaswamy Stadium","state":"Karnataka", "result":""}
-,"50":{"team1":"SRH","team2":"KXIP","city":"BANGALORE","time":"7:30 PM","date":"19-May-21","day":"WED","stadium":"M.Chinnaswamy Stadium","state":"Karnataka", "result":""}
-,"51":{"team1":"RCB","team2":"MI","city":"KOLKATTA","time":"7:30 PM","date":"20-May-21","day":"THU","stadium":"Eden Gardens Stadium","state":"WB", "result":""}
-,"52":{"team1":"KKR","team2":"SRH","city":"BANGALORE","time":"3:30 PM","date":"21-May-21","day":"FRI","stadium":"M.Chinnaswamy Stadium","state":"Karnataka", "result":""}
-,"53":{"team1":"DC","team2":"CSK","city":"KOLKATTA","time":"7:30 PM","date":"21-May-21","day":"FRI","stadium":"Eden Gardens Stadium","state":"WB", "result":""}
-,"54":{"team1":"KXIP","team2":"RR","city":"BANGALORE","time":"7:30 PM","date":"22-May-21","day":"SAT","stadium":"M.Chinnaswamy Stadium","state":"Karnataka", "result":""}
-,"55":{"team1":"MI","team2":"DC","city":"KOLKATTA","time":"3:30 PM","date":"23-May-21","day":"SUN","stadium":"Eden Gardens Stadium","state":"WB", "result":""}
-,"56":{"team1":"RCB","team2":"CSK","city":"KOLKATTA","time":"7:30 PM","date":"23-May-21","day":"SUN","stadium":"Eden Gardens Stadium","state":"WB", "result":""},
-"57":{"team1":"Qualifier","team2":"Qualifier","city":"AHMEDABAD","time":"7:30 PM","date":"25-May-21","day":"TUE","stadium":"Narendra Modi Stadium","state":"Gujarat", "result":""},
-"58":{"team1":"Qualifier","team2":"Qualifier","city":"AHMEDABAD","time":"7:30 PM","date":"26-May-21","day":"SUN","stadium":"Narendra Modi Stadium","state":"Gujarat", "result":""},
-"59":{"team1":"Qualifier","team2":"Qualifier","city":"AHMEDABAD","time":"7:30 PM","date":"28-May-21","day":"SUN","stadium":"Narendra Modi Stadium","state":"Gujarat", "result":""},
-"60":{"team1":"Qualifier","team2":"Qualifier","city":"AHMEDABAD","time":"7:30 PM","date":"30-May-21","day":"SUN","stadium":"Narendra Modi Stadium","state":"Gujarat", "result":""}
+,"30":{"date":"19-Sep-2021","time":"07:30 PM","team1":"CSK","team2":"MI",  "city":"Dubai", "stadium":"Dubai International Cricket Stadium", "state":"NA","result":"","day":"" },
+"31":{"date":"20-Sep-2021","time":"07:30 PM","team1":"KKR","team2":"RCB","city":"Abu Dhabi", "stadium":"Sheikh Zayed Stadium", "state":"NA","result":"","day":""},
+"32":{"date":"21-Sep-2021","time":"07:30 PM","team1":"KXIP","team2":"RR","city":"Dubai", "stadium":"Dubai International Cricket Stadium", "state":"NA","result":"","day":""},
+"33": {"date":"22-Sep-2021","time":"07:30 PM","team1":"DC","team2":"SRH",  "city":"Dubai", "stadium":"Dubai International Cricket Stadium", "state":"NA","result":"","day":""},
+"34": {"date":"23-Sep-2021","time":"07:30 PM","team1":"MI","team2":"KKR",  "city":"Abu Dhabi", "stadium":"Sheikh Zayed Stadium", "state":"NA","result":"","day":""},
+"35": {"date":"24-Sep-2021","time":"07:30 PM","team1":"RCB","team2":"CSK","city":"Sharjah", "stadium":"Sharjah Cricket Stadium", "state":"NA","result":"","day":""},
+"36": {"date":"25-Sep-2021","time":"03:30 PM","team1":"DC","team2":"RR",    "city":"Abu Dhabi", "stadium":"Sheikh Zayed Stadium", "state":"NA","result":"","day":""},
+"37":{"date":"25-Sep-2021", "time":"07:30 PM","team1":"SRH","team2":"PBKS","city":"Sharjah", "stadium":"Sharjah Cricket Stadium", "state":"NA","result":"","day":""},
+"38": {"date":"26-Sep-2021","time":"03:30 PM","team1":"CSK","team2":"KKR","city":"Abu Dhabi", "stadium":"Sheikh Zayed Stadium", "state":"NA","result":"","day":""},
+"39": {"date":"26-Sep-2021", "time":"07:30 PM","team1":"RCB","team2":"MI",  "city":"Dubai", "stadium":"Dubai International Cricket Stadium", "state":"NA","result":"","day":""},
+"40": {"date":"27-Sep-2021", "time":"07:30 PM","team1":"SRH","team2":"RR",  "city":"Dubai", "stadium":"Dubai International Cricket Stadium", "state":"NA","result":"","day":""},
+"41":  {"date":"28-Sep-2021","time":"03:30 PM","team1":"KKR","team2":"DC",  "city":"Sharjah", "stadium":"Sharjah Cricket Stadium", "state":"NA","result":"","day":""},
+"42":  {"date":"28-Sep-2021","time":"07:30 PM","team1":"SRH","team2":"PBKS","city":"Abu Dhabi", "stadium":"Sheikh Zayed Stadium", "state":"NA","result":"","day":""},
+"43":  {"date":"29-Sep-2021","time":"07:30 PM","team1":"RR","team2":"RCB",  "city":"Dubai", "stadium":"Dubai International Cricket Stadium", "state":"NA","result":"","day":""},
+"44":  {"date":"30-Sep-2021","time":"07:30 PM","team1":"SRH","team2":"CSK","city":"Sharjah", "stadium":"Sharjah Cricket Stadium", "state":"NA","result":"","day":""},
+"45":  {"date":"01-Oct-2021","time":"07:30 PM","team1":"KKR","team2":"PBKS", "city":"Dubai", "stadium":"Dubai International Cricket Stadium", "state":"NA","result":"","day":""},
+"46":  {"date":"02-Oct-2021","time":"03:30 PM","team1":"SRH","team2":"DC",    "city":"Sharjah", "stadium":"Sharjah Cricket Stadium", "state":"NA","result":"","day":""},
+"47":  {"date":"02-Oct-2021","time":"07:30 PM","team1":"RR","team2":"CSK","city":"Abu Dhabi", "stadium":"Sheikh Zayed Stadium", "state":"NA","result":"","day":""},
+"48":  {"date":"03-Oct-2021","time":"03:30 PM","team1":"RCB","team2":"PBKS", "city":"Sharjah", "stadium":"Sharjah Cricket Stadium", "state":"NA","result":"","day":""},
+"49":  {"date":"03-Oct-2021","time":"07:30 PM","team1":"KKR","team2":"SRH","city":"Dubai", "stadium":"Dubai International Cricket Stadium", "state":"NA","result":"","day":""},
+"50":  {"date":"04-Oct-2021","time":"07:30 PM","team1":"DC","team2":"CSK",  "city":"Dubai", "stadium":"Dubai International Cricket Stadium", "state":"NA","result":"","day":""},
+"51":   {"date":"05-Oct-2021","time":"07:30 PM","team1":"RR","team2":"MI","city":"Sharjah", "stadium":"Sharjah Cricket Stadium", "state":"NA","result":"","day":""},
+"52":  {"date":"06-Oct-2021","time":"07:30 PM","team1":"RCB","team2":"SRH","city":"Abu Dhabi", "stadium":"Sheikh Zayed Stadium", "state":"NA","result":"","day":""},
+"53":  {"date":"07-Oct-2021","time":"03:30 PM","team1":"CSK","team2":"PBKS","city":"Dubai", "stadium":"Dubai International Cricket Stadium", "state":"NA","result":"","day":""},
+"54":  {"date":"07-Oct-2021","time":"07:30 PM","team1":"KKR","team2":"RR",   "city":"Sharjah", "stadium":"Sharjah Cricket Stadium", "state":"NA","result":"","day":""},
+"55":  {"date":"08-Oct-2021","time":"03:30 PM","team1":"SRH","team2":"MI", "city":"Abu Dhabi", "stadium":"Sheikh Zayed Stadium", "state":"NA","result":"","day":""},
+"56":  {"date":"08-Oct-2021","time":"07:30 PM","team1":"RCB","team2":"DC",   "city":"Dubai", "stadium":"Dubai International Cricket Stadium", "state":"NA","result":"","day":""},
+"57":   {"date":"Oct-Oct-2021","time":"07:30 PM","team1":"Qualifier", "team2":"Qualifier",    "city":"Dubai", "stadium":"Dubai International Cricket Stadium", "state":"NA","result":"","day":""},
+"58":   {"date":"11-Oct-2021","time":"07:30 PM","team1":"Qualifier", "team2":"Qualifier",   "city":"Sharjah", "stadium":"Sharjah Cricket Stadium", "state":"NA","result":"","day":""},
+"59":   {"date":"13-Oct-2021","time":"07:30 PM","team1":"Qualifier", "team2":"Qualifier",   "city":"Sharjah", "stadium":"Sharjah Cricket Stadium", "state":"NA","result":"","day":""},
+"60":   {"date":"15-Oct-2021","time":"07:30 PM","team1":"Finalist", "team2":"Finalist","city":"Dubai", "stadium":"Dubai International Cricket Stadium", "state":"NA","result":"","day":""}
 }
