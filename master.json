@@ -28,12 +28,12 @@
 ,"27":{"team1":"MI","team2":"CSK","city":"DELHI","time":"7:30 PM","date":"01-May-21","day":"SAT","stadium":"Feroz Shah Kotla Stadium","state":"DELHI", "result":"Mumbai Indians win by 4 wickets."}
 ,"28":{"team1":"RR","team2":"SRH","city":"DELHI","time":"3:30 PM","date":"02-May-21","day":"SUN","stadium":"Feroz Shah Kotla Stadium","state":"DELHI", "result":"Rajasthan Royals won by 55 runs"}
 ,"29":{"team1":"KXIP","team2":"DC","city":"AHMEDABAD","time":"7:30 PM","date":"02-May-21","day":"SUN","stadium":"Narendra Modi Stadium","state":"Gujarat", "result":"Delhi Capitals win by 7 wickets."}
-,"30":{"date":"19-Sep-2021","time":"07:30 PM","team1":"CSK","team2":"MI",  "city":"Dubai", "stadium":"Dubai International Cricket Stadium", "state":"NA","result":"","day":"SUN" },
-"31":{"date":"20-Sep-2021","time":"07:30 PM","team1":"KKR","team2":"RCB","city":"Abu Dhabi", "stadium":"Sheikh Zayed Stadium", "state":"NA","result":"","day":"MON"},
-"32":{"date":"21-Sep-2021","time":"07:30 PM","team1":"KXIP","team2":"RR","city":"Dubai", "stadium":"Dubai International Cricket Stadium", "state":"NA","result":"","day":"TUE"},
-"33": {"date":"22-Sep-2021","time":"07:30 PM","team1":"DC","team2":"SRH",  "city":"Dubai", "stadium":"Dubai International Cricket Stadium", "state":"NA","result":"","day":"WED"},
-"34": {"date":"23-Sep-2021","time":"07:30 PM","team1":"MI","team2":"KKR",  "city":"Abu Dhabi", "stadium":"Sheikh Zayed Stadium", "state":"NA","result":"","day":"THU"},
-"35": {"date":"24-Sep-2021","time":"07:30 PM","team1":"RCB","team2":"CSK","city":"Sharjah", "stadium":"Sharjah Cricket Stadium", "state":"NA","result":"","day":"FRI"},
+,"30":{"date":"19-Sep-2021","time":"07:30 PM","team1":"CSK","team2":"MI",  "city":"Dubai", "stadium":"Dubai International Cricket Stadium", "state":"NA","result":"Chennai Super Kings won by 20 runs.","day":"SUN" },
+"31":{"date":"20-Sep-2021","time":"07:30 PM","team1":"KKR","team2":"RCB","city":"Abu Dhabi", "stadium":"Sheikh Zayed Stadium", "state":"NA","result":"Kolkata Knight Riders won by 9 wkts","day":"MON"},
+"32":{"date":"21-Sep-2021","time":"07:30 PM","team1":"KXIP","team2":"RR","city":"Dubai", "stadium":"Dubai International Cricket Stadium", "state":"NA","result":"Rajasthan Royals won by 2 runs","day":"TUE"},
+"33": {"date":"22-Sep-2021","time":"07:30 PM","team1":"DC","team2":"SRH",  "city":"Dubai", "stadium":"Dubai International Cricket Stadium", "state":"NA","result":"Delhi Capitals won by 8 wkts","day":"WED"},
+"34": {"date":"23-Sep-2021","time":"07:30 PM","team1":"MI","team2":"KKR",  "city":"Abu Dhabi", "stadium":"Sheikh Zayed Stadium", "state":"NA","result":"Kolkata Knight Riders won by 7 wkts","day":"THU"},
+"35": {"date":"24-Sep-2021","time":"07:30 PM","team1":"RCB","team2":"CSK","city":"Sharjah", "stadium":"Sharjah Cricket Stadium", "state":"NA","result":"Chennai Super Kings won by 6 wkts","day":"FRI"},
 "36": {"date":"25-Sep-2021","time":"03:30 PM","team1":"DC","team2":"RR",    "city":"Abu Dhabi", "stadium":"Sheikh Zayed Stadium", "state":"NA","result":"","day":"SAT"},
 "37":{"date":"25-Sep-2021", "time":"07:30 PM","team1":"SRH","team2":"KXIP","city":"Sharjah", "stadium":"Sharjah Cricket Stadium", "state":"NA","result":"","day":"SAT"},
 "38": {"date":"26-Sep-2021","time":"03:30 PM","team1":"CSK","team2":"KKR","city":"Abu Dhabi", "stadium":"Sheikh Zayed Stadium", "state":"NA","result":"","day":"SUN"},
