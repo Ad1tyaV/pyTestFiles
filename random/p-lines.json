@@ -573,5 +573,10 @@
     "id": 114,
     "line": "Hello. Cupid called. He wants to tell you that he needs my heart back.",
     "category": "cheesy"
-  }  
+  },
+  {
+    "id": 115,
+    "line": "They say that kissing is a language of love, so would you mind starting a conversation with me?",
+    "category": "nsfw"
+  }
 ]
