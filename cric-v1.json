@@ -2,8 +2,8 @@
   "India": {
     "0": "Ishan Kishan",
     "1": "Virat Kohli",
-    "2": "SuryaKumar Yadav",
-    "3": "Rishabh Pant",
+    "2": "Shreyas Iyer",
+    "3": "Suryakumar Yadav",
     "4": "KL Rahul",
     "5": "Hardik Pandya",
     "6": "Ravindra Jadeja",
@@ -16,14 +16,14 @@
   "Pakistan": {
     "0": "Fakhar Zaman",
     "1": "Babar Azam",
-    "2": "Haider Ali",
+    "2": "Shan Masood",
     "3": "Mohammed Rizwan",
     "4": "Iftikhar Ahmed",
     "5": "Khushdil Shah",
     "6": "Shadab Khan",
     "7": "Shaheen Afrid",
-    "8": "Musa Khan",
-    "9": "Muhammad Hasnain",
+    "8": "Naseem Shah",
+    "9": "Haris Rauf",
     "10": "Yasir Shah",
     "-1": "Imad Wasim"
   },
@@ -33,7 +33,7 @@
     "2": "Marnus Labuschagne",
     "3": "Marcus Stoinis",
     "4": "Glenn Maxwell",
-    "5": "Matthew Wade",
+    "5": "Josh Inglis",
     "6": "Pat Cummins",
     "7": "Mitchell Starc",
     "8": "Adam Zampa",
@@ -81,7 +81,7 @@
     "8": "Trent Boult",
     "9": "Lockie Ferguson",
     "10": "Tim Southee",
-    "-1": "Martin Guptill"
+    "-1": "Rachin Ravindra"
   },
   "WestIndies": {
     "0": "Shai Hope",
