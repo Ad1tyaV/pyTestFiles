@@ -1,0 +1,7 @@
+{
+    "overwrite_today_word": "",
+    "theme": "default",
+    "blocked-features": [
+        "invite_wordle"
+    ]
+}
