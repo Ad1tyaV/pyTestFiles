@@ -53,8 +53,8 @@
     "ind-sundar": {
       "name": "Washington Sundar",
       "role": "All-rounder",
-      "batting": 73,
-      "attacking": 76,
+      "batting": 75,
+      "attacking": 81,
       "bowling": 80
     },
     "ind-axar": {
@@ -123,7 +123,7 @@
     "pak-babar": {
       "name": "Babar Azam",
       "role": "Batter",
-      "batting": 93,
+      "batting": 90,
       "attacking": 82,
       "bowling": 8
     },
@@ -144,8 +144,8 @@
     "pak-salman": {
       "name": "Salman Ali Agha",
       "role": "All-rounder",
-      "batting": 79,
-      "attacking": 82,
+      "batting": 84,
+      "attacking": 85,
       "bowling": 70
     },
     "pak-khawaja-nafay": {
@@ -172,15 +172,15 @@
     "pak-shaheen": {
       "name": "Shaheen Shah Afridi",
       "role": "Bowler",
-      "batting": 36,
-      "attacking": 30,
+      "batting": 40,
+      "attacking": 70,
       "bowling": 93
     },
     "pak-naseem": {
       "name": "Naseem Shah",
       "role": "Bowler",
       "batting": 27,
-      "attacking": 21,
+      "attacking": 70,
       "bowling": 90
     },
     "pak-abrar": {
@@ -200,7 +200,7 @@
     "pak-rizwan": {
       "name": "Mohammad Rizwan",
       "role": "Wicketkeeper",
-      "batting": 88,
+      "batting": 84,
       "attacking": 93,
       "bowling": 5
     },
@@ -208,7 +208,7 @@
       "name": "Iftikhar Ahmed",
       "role": "All-rounder",
       "batting": 77,
-      "attacking": 80,
+      "attacking": 90,
       "bowling": 67
     },
     "pak-rauf": {
@@ -256,8 +256,8 @@
     "aus-tim-david": {
       "name": "Tim David",
       "role": "Batter",
-      "batting": 80,
-      "attacking": 87,
+      "batting": 78,
+      "attacking": 96,
       "bowling": 8
     },
     "aus-connolly": {
@@ -271,7 +271,7 @@
       "name": "Pat Cummins",
       "role": "Bowler",
       "batting": 31,
-      "attacking": 27,
+      "attacking": 85,
       "bowling": 84
     },
     "aus-bartlett": {
@@ -320,14 +320,14 @@
       "name": "Mitchell Starc",
       "role": "Bowler",
       "batting": 50,
-      "attacking": 44,
-      "bowling": 94
+      "attacking": 80,
+      "bowling": 98
     },
     "eng-buttler": {
       "name": "Jos Buttler",
       "role": "Wicketkeeper",
-      "batting": 91,
-      "attacking": 99,
+      "batting": 86,
+      "attacking": 97,
       "bowling": 5
     },
     "eng-jacks": {
@@ -361,22 +361,22 @@
     "eng-bethell": {
       "name": "Jacob Bethell",
       "role": "All-rounder",
-      "batting": 78,
-      "attacking": 81,
+      "batting": 82,
+      "attacking": 89,
       "bowling": 65
     },
     "eng-curran": {
       "name": "Sam Curran",
       "role": "All-rounder",
-      "batting": 76,
-      "attacking": 79,
+      "batting": 80,
+      "attacking": 87,
       "bowling": 84
     },
     "eng-overton": {
       "name": "Jamie Overton",
       "role": "All-rounder",
       "batting": 66,
-      "attacking": 69,
+      "attacking": 85,
       "bowling": 80
     },
     "eng-liam-dawson": {
@@ -397,7 +397,7 @@
       "name": "Jofra Archer",
       "role": "Bowler",
       "batting": 45,
-      "attacking": 39,
+      "attacking": 85,
       "bowling": 94
     },
     "eng-rashid": {
@@ -725,15 +725,15 @@
     "wi-pooran": {
       "name": "Nicholas Pooran",
       "role": "Wicketkeeper",
-      "batting": 91,
+      "batting": 83,
       "attacking": 99,
       "bowling": 5
     },
     "wi-andre-russell": {
       "name": "Andre Russell",
       "role": "All-rounder",
-      "batting": 75,
-      "attacking": 84,
+      "batting": 82,
+      "attacking": 95,
       "bowling": 86
     },
     "wi-jason-holder": {
@@ -992,7 +992,7 @@
       "name": "Ravindra Jadeja",
       "role": "All-rounder",
       "batting": 80,
-      "attacking": 83,
+      "attacking": 88,
       "bowling": 89
     },
     "ind-siraj": {
@@ -1048,14 +1048,14 @@
       "name": "Steve Smith",
       "role": "Batter",
       "batting": 91,
-      "attacking": 76,
+      "attacking": 87,
       "bowling": 15
     },
     "aus-labuschagne": {
       "name": "Marnus Labuschagne",
       "role": "Batter",
       "batting": 85,
-      "attacking": 86,
+      "attacking": 84,
       "bowling": 35
     },
     "eng-crawley": {
@@ -1069,7 +1069,7 @@
       "name": "Joe Root",
       "role": "Batter",
       "batting": 94,
-      "attacking": 80,
+      "attacking": 85,
       "bowling": 53
     },
     "eng-carse": {
@@ -1090,21 +1090,21 @@
       "name": "Temba Bavuma",
       "role": "Batter",
       "batting": 85,
-      "attacking": 76,
+      "attacking": 81,
       "bowling": 8
     },
     "sa-breetzke": {
       "name": "Matthew Breetzke",
       "role": "Batter",
-      "batting": 81,
-      "attacking": 82,
+      "batting": 78,
+      "attacking": 89,
       "bowling": 5
     },
     "sa-rubin-hermann": {
       "name": "Rubin Hermann",
       "role": "Batter",
       "batting": 80,
-      "attacking": 79,
+      "attacking": 85,
       "bowling": 8
     },
     "sa-burger": {
