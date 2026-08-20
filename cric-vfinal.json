@@ -53,15 +53,15 @@
     "ind-sundar": {
       "name": "Washington Sundar",
       "role": "All-rounder",
-      "batting": 75,
-      "attacking": 81,
+      "batting": 76,
+      "attacking": 89,
       "bowling": 80
     },
     "ind-axar": {
       "name": "Axar Patel",
       "role": "All-rounder",
       "batting": 78,
-      "attacking": 81,
+      "attacking": 85,
       "bowling": 86
     },
     "ind-harshit-rana": {
@@ -278,7 +278,7 @@
       "name": "Xavier Bartlett",
       "role": "Bowler",
       "batting": 39,
-      "attacking": 33,
+      "attacking": 65,
       "bowling": 84
     },
     "aus-ellis": {
@@ -306,14 +306,14 @@
       "name": "Matthew Short",
       "role": "All-rounder",
       "batting": 81,
-      "attacking": 84,
+      "attacking": 85,
       "bowling": 55
     },
     "aus-marcus-stoinis": {
       "name": "Marcus Stoinis",
       "role": "All-rounder",
-      "batting": 75,
-      "attacking": 84,
+      "batting": 80,
+      "attacking": 89,
       "bowling": 86
     },
     "aus-starc": {
@@ -390,7 +390,7 @@
       "name": "Rehan Ahmed",
       "role": "All-rounder",
       "batting": 64,
-      "attacking": 67,
+      "attacking": 76,
       "bowling": 77
     },
     "eng-archer": {
